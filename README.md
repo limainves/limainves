@@ -2,6 +2,10 @@
 
 ## Olá, tudo certo? 👋
 
+<table>
+  <tr>
+    <td>
+
 ### Me chamo **Pablo Guilherme de Lima Dantas**, sou do Rio Grande do Norte, e aqui vai um pouco sobre mim:
 
 🎓 Atualmente atuo como **tutor nas disciplinas** de:
@@ -25,16 +29,13 @@ Minhas análises são fruto de estudos independentes e observação constante do
 - Python 🐍 – 15%  
 - R 📊 – 15%  
 
-*(Dados exemplares, verifique seu GitHub para ajustar)*
-
----
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN1aHd6N3o2a2JwbHhiejMyZzczdm5uaHJpc3c3aWN3dWt5c254MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IWbey5PkHvwCdyvJv2/giphy.gif" alt="Baby Yoda GIF" width="350"/>
-</div>
-
----
-
 **Obrigado pela visita!** 😄  
 **Vamos nos conectar?**  
 [🔗 LinkedIn](https://www.linkedin.com/in/pablo--dantas/) | [📺 YouTube – Lima Invest](https://www.youtube.com/@LimaInvest-)
+
+</td>
+<td>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN1aHd6N3o2a2JwbHhiejMyZzczdm5uaHJpc3c3aWN3dWt5c254MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IWbey5PkHvwCdyvJv2/giphy.gif" alt="Baby Yoda GIF" width="300"/>
+</td>
+</tr>
+</table>
