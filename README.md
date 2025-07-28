@@ -1,7 +1,7 @@
 # Pablo Guilherme de Lima Dantas
 
 <div align="right">
-  <img src="https://tenor.com/caClOM0TzJa.gif" alt="Trading GIF" width="400"/>
+  <img src="https://tenor.com/view/ponke-ponkesol-solana-sol-monke-gif-1684753300055389302" alt="Ponke Trading GIF" width="400"/>
 </div>
 
 ## Sobre Mim
