@@ -1,8 +1,8 @@
-# Pablo Guilherme de Lima Dantas
-
 <div align="right">
   <img src="https://tenor.com/view/ponke-ponkesol-solana-sol-monke-gif-1684753300055389302" alt="Ponke Trading GIF" width="400"/>
 </div>
+
+# Pablo Guilherme de Lima Dantas
 
 ## Sobre Mim
 Entusiasta do mercado financeiro e tutor em:
