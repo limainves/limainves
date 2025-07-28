@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://tenor.com/view/ponke-ponkesol-solana-sol-monke-gif-1684753300055389302" alt="Ponke Trading GIF" width="400"/>
+  <img src="https://media1.tenor.com/m/F2FyMz_39HYAAAAd/ponke-ponkesol.gif" alt="Ponke Trading GIF" width="400"/>
 </div>
 
 # Pablo Guilherme de Lima Dantas
