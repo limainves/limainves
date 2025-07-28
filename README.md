@@ -8,12 +8,6 @@ Entusiasta do mercado financeiro e tutor em:
 - 📊 Fundamentos de Estatística  
 - 👥 Técnicas Demográficas
 
-### Iniciativas
-Criador do canal **[Lima Invest](https://www.youtube.com/@LimaInvest-)** no YouTube, produzindo conteúdo sobre mercado de ações e educação financeira.
-
-### Objetivos
-Participar de pesquisas financeiras para aprofundar conhecimentos e contribuir com metodologias avançadas.
-
 > *"Crescer é uma escolha diária."*
 
 ### Tecnologias
