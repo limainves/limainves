@@ -13,8 +13,8 @@ Entusiasta do mercado financeiro e tutor em:
 ### Tecnologias
 | Linguagem | Uso |
 |-----------|-----|
-| Python 🐍 | 15% |
-| R 📊      | 15% |
+| Python 🐍 | 30% |
+| R 📊      | 70% |
 
 ### Contato
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pablo--dantas/)
